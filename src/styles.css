@@ -16,10 +16,11 @@ main {
   padding: 20px;
 }
 
-main {
+main >h1{
   text-align: center;
+  font-size: 3.5em;
 }
 
-h1 {
-  font-size: 3.5em;
+h3{
+  background-color: #a34f23;
 }
